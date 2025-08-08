@@ -1,0 +1,4 @@
+101,Rajan,Cold,22
+102,Aman,Fever,25
+101,Rajan,Cold,22
+101,Rajan,Cold
